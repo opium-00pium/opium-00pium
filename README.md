@@ -18,7 +18,7 @@
   
 <tr><td>
 
-###  About Me
+### About Me
 
 <img align="right" width="88" src="./img/profile.jpg" />
 <p>&emsp;&emsp;I'm a student at GZHU</p>
@@ -32,7 +32,7 @@
 
 ###  Work Experience
 
-<img align="right" width="88" src="./img/nsfocus_logo.jpg" />
+<img align="right" width="88" src="./img/nsfous_logo.jpg" />
 
 <p>&emsp;&emsp;<strong>Company:</strong> <a href="https://nsfocusglobal.com/" target="_blank">Nsfocus</a> | April 2025 – Present</p>
 <p>&emsp;&emsp;<strong>Position:</strong> Security Engineer</p>
@@ -42,6 +42,11 @@
 <tr><td>
 
 ###  Github Star And Languages
-   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=opium-00pium&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=opium-00pium&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" /><br>
-<p>&emsp;&emsp;</p>
+<tr>
+  <td>
+    <p align="left">
+      <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=opium-00pium&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
+      <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=opium-00pium&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
+    </p>
+  </td>
+</tr>
