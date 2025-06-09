@@ -2,7 +2,7 @@
 
   <!-- Hi There -->
   
-  ![blur](https://capsule-render.vercel.app/api?type=blur&height=450&color=0:4285F4,50:E84296,100:8A2BE2&text=Hello%20Friend!-nl-I%20am%200pium&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=45&textBg=false)
+  ![blur](https://capsule-render.vercel.app/api?type=blur&height=450&color=0:4285F4,50:E84296,100:8A2BE2&text=Hello%20Friend!-nl-I%20am%20Pi%20Huang&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=45&textBg=false)
 
   <!-- profile logo -->
   <div>
@@ -23,6 +23,7 @@
 <img align="right" width="88" src="./img/profile.jpg" />
 <p>&emsp;&emsp;I'm a student at GZHU</p>
 <p>&emsp;&emsp;Cyber Security | CTF | Web</p>
+<p>&emsp;&emsp;Use the handle 0pium in the CTF community</p>
 <p>&emsp;&emsp;Currently working at Nsfocus</p>
 <p>&emsp;&emsp;</p>
 
