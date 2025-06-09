@@ -41,12 +41,18 @@
 </td></tr>
 <tr><td>
 
-###  Github Star And Languages
 <tr>
   <td>
-    <p align="left">
-      <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=opium-00pium&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
-      <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=opium-00pium&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
-    </p>
+    <h3>Github Star And Languages</h3>
+    <table>
+      <tr>
+        <td>
+          <img alt="Opium's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=opium-00pium&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
+        </td>
+        <td>
+          <img alt="Opium's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=opium-00pium&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
+        </td>
+      </tr>
+    </table>
   </td>
 </tr>
