@@ -6,7 +6,7 @@
 
   <!-- profile logo -->
   <div>
-    <a href="https://opium-00pium.github.io/0piumBlog/"><img src="https://img.shields.io/badge/Blog-博客-8c36db" alt="Blog" title="Blog" /></a>&emsp;
+    <a href="https://opium-00pium.github.io/0piumBlog/"><img src="https://img.shields.io/badge/Blog-0pium's Bolg-8c36db" alt="Blog" title="Blog" /></a>&emsp;
     <a href="https://github.com/opium-00pium"><img src="https://img.shields.io/badge/GitHub-opium--00pium-blue?logo=github&logoColor=white" alt="GitHub" title="GitHub" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=opium-00pium&label=Views&color=orange&style=flat" alt="view-num" />
   </div>
