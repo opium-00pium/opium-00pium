@@ -47,10 +47,10 @@
     <table>
       <tr>
         <td>
-          <img alt="Opium's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=opium-00pium&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
+          <img alt="Opium's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=opium-00pium&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=0,E84296,8A2BE2,4285F4&title_color=fff&text_color=fff&icon_color=fff" />
         </td>
         <td>
-          <img alt="Opium's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=opium-00pium&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,4285F4,E84296,8A2BE2&theme=graywhite" />
+          <img alt="Opium's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opium-00pium&layout=compact&hide_border=true&hide_title=true&bg_color=0,E84296,8A2BE2,4285F4&title_color=fff&text_color=fff&icon_color=fff" />
         </td>
       </tr>
     </table>
