@@ -16,7 +16,7 @@
 ### About Me
 
 <img align="right" width="88" src="./img/profile.jpg" />
-<p>&emsp;&emsp;I'm a student at GZHU</p>
+<p>&emsp;&emsp;I'm a student at <a href="https://english.gzhu.edu.cn/" target="_blank">Guangzhou University</a></p>
 <p>&emsp;&emsp;Cyber Security | CTF | Web | Automotive Cybersecurity</p>
 <p>&emsp;&emsp;</p>
 
