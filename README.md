@@ -25,12 +25,12 @@
 
 <img align="right" width="88" src="./img/nsfous_logo.jpg" />
 
-<p>&emsp;&emsp;<strong>Company:</strong> <a href="https://nsfocusglobal.com/" target="_blank">Nsfocus</a> | April 2025 – August 2025</p>
+<p>&emsp;&emsp;<strong>Company:</strong> <a href="https://nsfocusglobal.com/" target="_blank">Nsfocus</a> | Apr 2025 – Aug 2025</p>
 <p>&emsp;&emsp;<strong>Position:</strong> Security Operations Intern</p>
 
 <img align="right" width="88" src="./img/xpeng_logo.jpg" />
 
-<p>&emsp;&emsp;<strong>Company:</strong> <a href="https://www.xpeng.com/" target="_blank">XPENG</a> | November 2025 – Present</p>
+<p>&emsp;&emsp;<strong>Company:</strong> <a href="https://www.xpeng.com/" target="_blank">XPENG</a> | Nov 2025 – Feb 2026</p>
 <p>&emsp;&emsp;<strong>Position:</strong> Cybersecurity Intern</p>
 
 
