@@ -30,7 +30,7 @@
 
 <img align="right" width="88" src="./img/xpeng_logo.jpg" />
 
-<p>&emsp;&emsp;<strong>Company:</strong> <a href="https://www.xpeng.com/" target="_blank">XPENG</a> | Nov 2025 – Feb 2026</p>
+<p>&emsp;&emsp;<strong>Company:</strong> <a href="https://www.xpeng.com/?fromNav=1" target="_blank">XPENG</a> | Nov 2025 – Feb 2026</p>
 <p>&emsp;&emsp;<strong>Position:</strong> Cybersecurity Intern</p>
 
 
